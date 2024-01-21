@@ -2,4 +2,4 @@
 
 here is a demo of the site that doesnt really do much apart from this
 
-[demo video](<public/docs/opening screen.mov>)
+<video src="opening%20screen.mp4" controls title="Title"></video>
